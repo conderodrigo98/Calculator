@@ -1,0 +1,132 @@
+body{
+  background-color:#816755;
+}
+
+.case{
+  background-image: url(https://www.textures.com/system/gallery/photos/Wood/Fine%20Wood/120632/WoodFine0077_6_download600.jpg);
+  background-repeat:repeat;
+  border-radius:10px;
+  border-color:#623B19;
+  border-style:groove;
+  text-align:center;
+  width:30%;
+  margin:auto;
+  margin-top:10%;
+  padding-bottom:2%;  
+}
+
+h1{
+  font-family:"Keania One";
+  font-size:1.75em;
+  margin-top:2%;
+  color:#1F0B00;
+}
+
+.display{
+  background-color:#D4956A;
+  border-radius:10px;
+  width:95%;
+  margin:auto;
+  margin-bottom:7%;
+  font-family:"Press Start 2P";
+  color:#3E1600;
+  min-height:2.25em;
+  text-overflow: ellipsis;
+  overflow:hidden;
+}
+
+h2{
+  font-size:1.5em;
+  text-align:right;
+  margin: 1% 1% 0% 0%;
+}
+
+h3{
+  font-size:0.75em;
+  text-align:right;
+  margin: 0% 1% 0.5% 0%;
+}
+
+.row{
+  margin: 2% 10% 2% 30%;  
+}
+
+button{
+  text-align:center;
+  color:#1F0B00;
+  font-family:"Keania One";
+  width:auto;
+  box-shadow: 0 3px 0 0 #1F0B00;
+}
+
+button:active{
+  background: #1F0B00;
+	box-shadow: none;
+	margin-bottom: -3px;
+	margin-top: 3px;
+}
+
+.normalBtn{
+   background-image:url("https://www.textures.com/system/gallery/photos/Wood/Fine%20Wood/16437/WoodFine0003_download600.jpg");
+  background-repeat:no repeat;
+}
+
+.especialBtn{
+   background-image:url("https://www.textures.com/system/gallery/photos/Wood/Fine%20Wood/21903/WoodFine0024_download600.jpg");
+  background-repeat:no repeat;
+}
+
+#btnAC{
+  margin-left:5%;
+}
+
+#btnP1{
+  margin-left:15%;
+}
+
+#btnP2{
+  margin-left:20%;
+}
+
+#btn8,#btn5,#btn2,#btnFloat{
+  margin-left:20%;
+}
+
+#btn9,#btn6,#btn3,#btnEquals{
+ margin-left:30%;
+}
+
+#btnX,#btnPlus{
+  margin-left:45%;
+}
+
+#btnQ{
+  margin-left:50%;
+}
+
+#btn-{
+  margin-left:55%;
+}
+
+h4{
+  color:#800000;
+  text-align:center;
+  font-size:1em;
+}
+a{
+  color:#db3c30;
+}
+
+@media only screen and (max-width:480px){
+  .case{
+    margin-top:30%;
+    width:95%;
+    padding-bottom:5%;
+  }
+  
+  .row{
+    margin-left:22.5%;
+  }
+  
+  
+}
