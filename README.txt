@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/conderodrigo98/pen/jmgJNO.
-
+Another of my Free code camp projects. A basic calculator that supports addition, substraction, multiplication and division.
  
